@@ -6,7 +6,7 @@
 
 by Peter Kahl, 20 September 2025
 
-![alt text](https://github.com/Peter-Kahl/Kimmel-Suspended-Colbert-Outraged/blob/main/trump_tv.jpg.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Kimmel-Suspended-Colbert-Outraged/blob/main/trump_tv.jpg?raw=true)
 
 ### Abstract
 
