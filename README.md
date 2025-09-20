@@ -25,7 +25,7 @@ authoritarianism, obedience, epistemic clientelism, fiduciary–epistemic theory
 ### Cite this work
 
 ```
-Kahl, P. (2025). Kimmel Suspended, Colbert Outraged: How Trump Turns Dissent Into Disobedience. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Kimmel-Suspended-Colbert-Outraged
+Kahl, P. (2025). Kimmel suspended, Colbert outraged: How Trump turns dissent into disobedience. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Kimmel-Suspended-Colbert-Outraged
 ```
 
 ### Publisher & Licence
