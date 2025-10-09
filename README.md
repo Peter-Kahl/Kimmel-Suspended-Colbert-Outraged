@@ -12,7 +12,7 @@ by Peter Kahl, 2025-09-20
 
 ## Abstract
 
-This essay applies the framework developed in _Authoritarianism and the Architecture of Obedience_ (Kahl, 2025) to contemporary U.S. politics. It examines the suspension of _Jimmy Kimmel Live!_ under pressure from President Donald Trump and the FCC as a case study in authoritarian epistemic capture. Obedience is analysed not merely as behaviour but as epistemic submission: the substitution of another’s judgment for one’s own, the silencing of conscience, and the inhabiting of categories fabricated by authority. Drawing comparisons with Nazi concentration camp guards as test cases, the essay explores how dissonance is channelled into compliance and how fiduciary–epistemic scaffolds might resist such architectures of obedience.
+This essay applies the framework developed in [_Authoritarianism and the Architecture of Obedience_](https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience) (Kahl, 2025) to contemporary U.S. politics. It examines the suspension of _Jimmy Kimmel Live!_ under pressure from President Donald Trump and the FCC as a case study in authoritarian epistemic capture. Obedience is analysed not merely as behaviour but as epistemic submission: the substitution of another’s judgment for one’s own, the silencing of conscience, and the inhabiting of categories fabricated by authority. Drawing comparisons with Nazi concentration camp guards as test cases, the essay explores how dissonance is channelled into compliance and how fiduciary–epistemic scaffolds might resist such architectures of obedience.
 
 ## Keywords
 
