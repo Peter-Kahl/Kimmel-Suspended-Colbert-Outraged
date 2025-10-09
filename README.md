@@ -4,9 +4,9 @@
 
 _(Applied Case Study of Authoritarianism and the Architecture of Obedience)_
 
-by Peter Kahl, 20 September 2025
+by Peter Kahl, 2025-09-20
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.16001.52326-blue.svg)](https://doi.org/10.13140/RG.2.2.16001.52326)
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.16001.52326-blue.svg)](https://doi.org/10.13140/RG.2.2.16001.52326) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/Kimmel-Suspended-Colbert-Outraged/blob/main/trump_tv.jpg?raw=true)
 
@@ -28,7 +28,7 @@ Kahl, P. (2025). _Kimmel suspended, Colbert outraged: How Trump turns dissent in
 
 ## Publisher & Licence
 
-First published in London by Lex et Ratio Ltd, 20 September 2025.
+First published in London by Lex et Ratio Ltd, 2025-09-20.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
